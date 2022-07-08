@@ -1,0 +1,11 @@
+PROYECTO JPA
+(El proyecto esta en la carpeta src,el resto son configuraciones)
+
+Descripcion: Este es un sistema interno que podria usar una libreria para cargar sus libros y despues saber que material tienen disponible,
+relaciona libros con autores y editoriales
+
+Lenguajes empleados:Java,SQL(JPA)
+
+Autora:Fabiana Rossetto
+
+Contacto: https://www.linkedin.com/in/fabyrossetto/
